@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shekriti Mondal Shuchi
 - 👀 I’m interested in Python and R Language.
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shekritishuchi.7@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: Still surviving!
